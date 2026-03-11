@@ -58,3 +58,29 @@ $ whoami
 # Alumnus: South China University of Technology (SCUT) | IC Design (2021 - 2025)
 # Focus: High-performance Analog Front-Ends (AFE) for Brain-Computer Interface (BCI).
 
+
+void leisure_mode() {
+    switch(interest) {
+        case OPEN_WORLD: 
+            play("Red Dead Redemption 2", "Zelda"); break;
+        case STEALTH_ACTION:
+            // Comprehensive walkthrough: AC IV, V, VI, VII, VIII, IX
+            play("Assassin's Creed Series"); break;
+        default: 
+            search_new_vibe();
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
