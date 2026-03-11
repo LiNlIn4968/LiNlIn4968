@@ -43,3 +43,18 @@
 
 ---
 
+
+# 👨‍💻 System.initialize("<Your_Name>")
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=MPhil+at+University+of+Macau;Analog+IC+Designer+for+BCI;Deep+Learning+Explorer;Vibe+Coding+Enthusiast)](https://git.io/typing-svg)
+
+---
+
+### 🟢 Runtime Environment (Background)
+
+```bash
+$ whoami
+# Location: University of Macau (UM) | MPhil in Microelectronics (2025 - 2028)
+# Alumnus: South China University of Technology (SCUT) | IC Design (2021 - 2025)
+# Focus: High-performance Analog Front-Ends (AFE) for Brain-Computer Interface (BCI).
+
