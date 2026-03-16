@@ -30,8 +30,8 @@
 
 国家级荣誉:
   - 2024 “明石杯”微纳传感技术与应用大赛 | 全国三等奖
-  - 2023 美国大学生数学建模竞赛 (MCM) | 一等奖 (Meritorious Winner) | 队长
-  - 2024 美国大学生数学建模竞赛 (MCM) | 二等奖 (Honorable Mention) | 队长
+  - 2023 美国大学生数学建模竞赛 (MCM) | Meritorious Winner (M奖) | 队长
+  - 2024 美国大学生数学建模竞赛 (MCM) | Honorable Mention (H奖) | 队长
   - 2023 MathorCup 高校数学建模挑战赛 | 全国三等奖
 
 省级/校级荣誉:
