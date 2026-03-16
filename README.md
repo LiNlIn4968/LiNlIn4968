@@ -20,9 +20,28 @@
 
 ### 💻 技术栈 (Tech Stack)
 
-- **模拟/射频设计**: Cadence Virtuoso, Spectre, Hspice
+- **模拟设计**: Cadence Virtuoso, Spectre
 - **人工智能/开发**: Python, PyTorch (CNN, ResNet), Vibe Coding
 - **硬件描述**: Verilog, Verilog-A
+
+
+---
+### 🏆成就解锁
+# 正在从荣誉数据库读取数据...
+# 检索到国家级/省级奖项共计 10 余项
+
+国家级荣誉:
+  - 2024 “明石杯”微纳传感技术与应用大赛 | 全国三等奖
+  - 2023 美国大学生数学建模竞赛 (MCM) | 一等奖 (Meritorious Winner)
+  - 2024 美国大学生数学建模竞赛 (MCM) | 二等奖 (Honorable Mention)
+  - 2023 MathorCup 高校数学建模挑战赛 | 全国三等奖
+
+省级/校级荣誉:
+  - 2024 “明石杯”微纳传感技术与应用 | 广东省一等奖
+  - 2023-2024 学年校级二等奖学金
+  - 2023 全国大学生电子设计竞赛 (粤赛区) | 三等奖
+  - 2023 RT-Thread 大学生夏令营项目比赛 | 二等奖
+  - 2022-2023 学年校级二等奖学金 & 三好学生
 
 ---
 
@@ -33,7 +52,32 @@
 - **史诗级叙事**: 《荒野大镖客：救赎 2》
 - **潜行暗杀**: 《刺客信条》系列资深粉丝（已通关 4、5、6、7、8、9 代）
 
----
+### 🏆 System Achievements (Awards)
+
+```yaml
+# Loading honors and awards database...
+# Total rewards found: 10+ 
+
+National_Level:
+  - 2024 "Bright Stone Cup" Micro-Nano Sensing Tech & App | National Third Prize
+  - 2023 Mathematical Contest In Modeling (MCM/ICM) | Meritorious Winner (M奖)
+  - 2024 Mathematical Contest In Modeling (MCM/ICM) | Honorable Mention (H奖)
+  - 2023 13th MathorCup Mathematical Modeling Challenge | National Third Prize
+
+Provincial_Level:
+  - 2024 "Bright Stone Cup" Micro-Nano Sensing (Guangdong) | First Prize
+  - 2023 National Undergraduate Electronics Design Contest (Guangdong) | Third Prize
+  - 2023 Contemporary Undergraduate Mathematical Contest in Modeling | Third Prize
+  - 2023 RT-Thread University Summer Camp Project | Second Prize
+
+University_Level:
+  - 2022-2023 Academic Year Second-Class Scholarship
+  - 2022-2023 Merit Student Award (三好学生)
+  - 2022 "FLTRP·ETIC Cup" English Reading Contest | Second Prize
+
+
+
+
 
 ### 📫 联系我 (Connect with Me)
 
