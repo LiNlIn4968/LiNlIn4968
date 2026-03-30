@@ -49,7 +49,7 @@
 
 羽毛球 | 滑板 | 骑行
 我还喜欢复刻动漫/摇滚/pop音乐，使用GarageBand库乐队。
-本科和同学一起组建过乐队。
+本科和同学一起组建过乐队(叫COOL乐队)。
 
 ### 🏆 System Achievements (Awards)
 
